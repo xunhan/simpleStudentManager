@@ -1,0 +1,18 @@
+{
+  "name": "manager",
+  "version": "1.0.0",
+  "description": "简易人员管理系统",
+  "main": "app.js",
+  "scripts": {
+     "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "ejs": "~2.5.5",
+    "express": "~4.14.1",
+    "formidable": "^1.1.1",
+    "mongodb": "^2.2.24",
+    "mongoose": "^4.8.2"
+  },
+  "author": "Chenxi",
+  "license": "ISC"
+}
